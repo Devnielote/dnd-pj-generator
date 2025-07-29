@@ -11,6 +11,15 @@ RPG sessions, with the ability to export them as printable PDFs
 
 ---
 
+## Functionalities
+- Spells list
+- Races list
+- Classes list
+- Create spells list 
+
+
+---
+
 ## What's the purpose of this?
 - I simply love the process of creating characters for campaigns, even I don't end up using them right away!
 - I want to practice my tech stack while working on a topic I truly enjoy
